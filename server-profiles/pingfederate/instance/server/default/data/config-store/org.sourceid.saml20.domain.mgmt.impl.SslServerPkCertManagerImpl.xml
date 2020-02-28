@@ -3,12 +3,10 @@
     <con:item name="AutoCreateCertOnEngineNode">true</con:item>
     <con:list name="ActiveServerAliases">
         <con:ListItem>08tffd0emjfo61m5i45pdmrsd</con:ListItem>
-        <con:ListItem>vtcm75en83g6v1r87ytm7lihi</con:ListItem>
     </con:list>
     <con:list name="ActiveAdminServerAliases">
         <con:ListItem>08tffd0emjfo61m5i45pdmrsd</con:ListItem>
-        <con:ListItem>vtcm75en83g6v1r87ytm7lihi</con:ListItem>
     </con:list>
-    <con:item name="DefaultActiveServerAlias">vtcm75en83g6v1r87ytm7lihi</con:item>
-    <con:item name="DefaultActiveAdminServerAlias">vtcm75en83g6v1r87ytm7lihi</con:item>
+    <con:item name="DefaultActiveServerAlias">08tffd0emjfo61m5i45pdmrsd</con:item>
+    <con:item name="DefaultActiveAdminServerAlias">08tffd0emjfo61m5i45pdmrsd</con:item>
 </con:config>
